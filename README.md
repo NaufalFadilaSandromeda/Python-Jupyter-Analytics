@@ -8,7 +8,7 @@ The datasets used in this project are available on Kaggle. You can access and do
 
 1. **Sleep Time Prediction**  
    Description: This dataset is designed for machine learning models to predict sleep duration based on daily lifestyle parameters. The data includes features like workout time, reading time, phone usage time, work hours, caffeine intake, and relaxation time, with sleep time as the target variable.
-   Kaggle Link: [(Sleep Time Prediction on Kaggle](https://www.kaggle.com/datasets/govindaramsriram/sleep-time-prediction))
+   Kaggle Link: ([Sleep Time Prediction on Kaggle](https://www.kaggle.com/datasets/govindaramsriram/sleep-time-prediction))
 
 
 > **Note**: Some datasets may require you to create a Kaggle account to access and download them.
