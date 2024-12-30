@@ -12,16 +12,3 @@ The datasets used in this project are available on Kaggle. You can access and do
 
 
 > **Note**: Some datasets may require you to create a Kaggle account to access and download them.
-
-## Installation
-To set up the project locally, clone this repository and install the required dependencies. Here are the steps:
-
-```bash
-# Clone the repository
-git clone https://github.com/username/kaggle-dataset-analysis.git
-
-# Navigate into the project directory
-cd kaggle-dataset-analysis
-
-# Install dependencies
-pip install -r requirements.txt
