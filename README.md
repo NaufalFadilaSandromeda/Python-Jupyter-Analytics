@@ -15,4 +15,8 @@ The datasets used in this project are available on Kaggle. You can access and do
    The crop yield values (in tons per hectare) are generated using a predefined equation that combines the effects of these factors. This dataset is ideal for exploring regression models, testing machine learning algorithms, or building predictive models for agricultural analysis.
    Kaggle Link: ([Crop Yield of a Farm](https://www.kaggle.com/datasets/govindaramsriram/crop-yield-of-a-farm/data))
 
+3. **Students Performance in Exams**  
+   Description: This data set consists of the marks secured by the students in various subjects.
+   Kaggle Link: ([Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams))
+
 > **Note**: Some datasets may require you to create a Kaggle account to access and download them.
