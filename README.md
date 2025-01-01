@@ -19,4 +19,8 @@ The datasets used in this project are available on Kaggle. You can access and do
    Description: This data set consists of the marks secured by the students in various subjects.
    Kaggle Link: ([Students Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams))
 
+4. **Data Engineer Jobs**  
+   Description: As part of the job series of datasets, this dataset can help you find a job as a data engineer.
+   Kaggle Link: ([Data Engineer Jobs](https://www.kaggle.com/datasets/andrewmvd/data-engineer-jobs))
+
 > **Note**: Some datasets may require you to create a Kaggle account to access and download them.
