@@ -23,4 +23,8 @@ The datasets used in this project are available on Kaggle. You can access and do
    Description: As part of the job series of datasets, this dataset can help you find a job as a data engineer.
    Kaggle Link: ([Data Engineer Jobs](https://www.kaggle.com/datasets/andrewmvd/data-engineer-jobs))
 
+5. **Café Menu and Customer Preferences**  
+   Description: The dataset Café Menu and Customer Preferences offers insights into the menu items, pricing, and customer behaviors in a café setting. It serves as a useful resource for analyzing customer preferences, identifying popular items, and exploring dietary trends.
+   Kaggle Link: ([Café Menu and Customer Preferences](https://www.kaggle.com/datasets/bhaskarmishra44796/caf-menu-and-customer-preferences/data))
+
 > **Note**: Some datasets may require you to create a Kaggle account to access and download them.
